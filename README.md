@@ -7,6 +7,3 @@ Screenshots:
 ![Image alt](https://github.com/sava642/React-project-films_collection/raw/main/screenshots/4.png)
 ![Image alt](https://github.com/sava642/React-project-films_collection/raw/main/screenshots/5.png)
 
-  // "devDependencies": {
-  //   "gh-pages": "^4.0.0"
-  // }
